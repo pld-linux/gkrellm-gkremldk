@@ -11,6 +11,7 @@ URL:		http://www.tof2k.com/gkremldk/
 BuildRequires:	autoconf
 BuildRequires:	gkrellm-devel >= 2.0
 BuildRequires:	gtk+2-devel
+BuildRequires:	pkgconfig
 Requires:	gkrellm >= 2.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
