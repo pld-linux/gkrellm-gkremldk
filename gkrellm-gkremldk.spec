@@ -1,12 +1,12 @@
 Summary:	GKrellmdk: GKrellM MLDonkey Plugin
 Summary(pl):	Wtyczka MLDonkey dla GKrellM
 Name:		gkrellm-gkremldk
-Version:	0.9.4
+Version:	0.9.6
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.tof2k.com/gkremldk/gkremldk-%{version}.tbz
-# Source0-md5:	b8d3042478e24161f990124acac5e263
+# Source0-md5:	f9ccb855c3d876a843b50d816e53a8ff
 URL:		http://www.tof2k.com/gkremldk/
 BuildRequires:	autoconf
 BuildRequires:	gkrellm-devel >= 2.0
