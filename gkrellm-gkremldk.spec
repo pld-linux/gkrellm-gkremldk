@@ -1,5 +1,5 @@
 Summary:	GKrellmdk: GKrellM MLDonkey Plugin
-Summary(pl):	Wtyczka MLDonkey dla GKrellM
+Summary(pl.UTF-8):   Wtyczka MLDonkey dla GKrellM
 Name:		gkrellm-gkremldk
 Version:	0.9.6
 Release:	1
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Gkremldk is a GKrellM plugin showing current mldonkey download/upload
 rate, and to set the maximum of these.
 
-%description -l pl
-Gkremldk jest wtyczk± do GKrellM pokazuj±c± aktualn± prêdko¶æ
+%description -l pl.UTF-8
+Gkremldk jest wtyczkÄ… do GKrellM pokazujÄ…cÄ… aktualnÄ… prÄ™dkoÅ›Ä‡
 transferu w mldonkey.
 
 %prep
