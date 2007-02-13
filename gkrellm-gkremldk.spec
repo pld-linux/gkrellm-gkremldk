@@ -1,5 +1,5 @@
 Summary:	GKrellmdk: GKrellM MLDonkey Plugin
-Summary(pl.UTF-8):   Wtyczka MLDonkey dla GKrellM
+Summary(pl.UTF-8):	Wtyczka MLDonkey dla GKrellM
 Name:		gkrellm-gkremldk
 Version:	0.9.6
 Release:	1
